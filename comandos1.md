@@ -1,5 +1,5 @@
 
-1) Git
+1)  Git
 
 ### `git init`
 Função: inicializa um repositório Git local.
